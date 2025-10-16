@@ -1,3 +1,4 @@
+#应用程序创建
 import sys
 import os
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
